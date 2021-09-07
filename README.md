@@ -7,7 +7,7 @@ email: alexandermcfarland2022@u.northwestern.edu
 ### The repository for this project four folders with the data and R script used to analyze the data:
 
 1. ani_anlysis
-2. phylogneetic_analysis
+2. phylognetic_analysis
 3. quality_assessments
 4. susceptibility analysis
 
